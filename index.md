@@ -1,11 +1,11 @@
 ## Über mich
 
-You can use the [editor on GitHub](https://github.com/bac-stephan/about-me/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Stephan Meierholz
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
+* Ich bin Wilhelmshavener
+* Ich hab die 50 überschritten :)
+* Hab zwei Berufe **Elektroinstallateur** und **Krankenpfleger**
+* 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
